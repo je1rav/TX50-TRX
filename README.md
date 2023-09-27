@@ -43,9 +43,10 @@ IFフィルターにはLTMxxxYYが使用できます．とりあえず，LTM450I
 AGC電圧をSeeed Xiao RP2040のアナログ入力に接続してあるので，OLEDを繋げば信号強度の表示も可能なはずです．  
 (option)部分の利用に関するプログラムは，現時点では作っておらず，具体的な作成計画もありません．  
 
-![alt text](images/TX50-TRX-XAIO_3.png)   
-部品をつけた状態（プロトタイプ基板）  
-![alt text](images/TX50-TRX-XAIO_4.png)  
+![alt text](images/TX50-TRX-XIAO_3.png)   
+ロッドアンテナ不使用で部品をつけた状態（プロトタイプ基板）  
+  
+![alt text](images/TX50-TRX-XIAO_4.png)  
 ロッドアンテナ仕様にした状態（プロトタイプ基板）  
 
 受信機の入力段に送信機キットで余ったDIY7をBPFとして挿入していますので，受信感度が最大になるようにコアを調整する必要があります．  
