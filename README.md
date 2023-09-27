@@ -69,7 +69,7 @@ AGC電圧をSeeed Xiao RP2040のアナログ入力に接続してあるので，
 	TX50キット：CRkits共同購入プロジェクト，1850円 + 180円（送料）　http://jl1kra.sakura.ne.jp/TX50R50.html  
 	Seeed Xiao RP2040：たとえば秋月電子 830円　https://akizukidenshi.com/catalog/g/gM-17044/
 	秋月電子Si5351モジュール：秋月電子，500円　https://akizukidenshi.com/catalog/g/gK-10679/  
-	8ピンICソケット（秋月電子Si5351モジュール）：1個
+	8ピンICソケット（秋月電子Si5351モジュール用）：1個
 	CD2003GP：たとえばaitendo，165円　https://www.aitendo.com/product/1528
 	16ピンICソケット（CD2003GP用）：1個
 	LTM455IW or LTM450IW：秋月電子，1個110円(LTM455IW) or 10個300円(LTM450IW) https://akizukidenshi.com/catalog/g/gP-16374/ or https://akizukidenshi.com/catalog/g/gP-16052/
