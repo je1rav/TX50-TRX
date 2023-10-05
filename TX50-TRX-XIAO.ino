@@ -53,7 +53,14 @@ int local_osc = 1;  //1 -> local oscilation frequency is lower than that of rece
 int C_freq = 0;  //FREQ_x: In this case, FREQ_0 is selected as the initial frequency. 
 int Tx_Status =0;
 
+#include "pico/stdlib.h"  //for use set_sys_clock_khz(): change the system clock frequency
+
 void setup() {
+  
+  //After using the following features, you will need to enter programming mode when uploading a new program.
+  //Programming mode can be entered by holding down the BOOTSEL button when RP2040 is turned on.
+  //set_sys_clock_khz(18000, true);   //CPU clock is down to 18000kHz (18MHz) to reduce the power consumption.
+
   //Digital pin setting ----- 
   pinMode(pin_SW1, INPUT_PULLUP); //SW (freq. change)
   pinMode(pin_TX_STATUS, INPUT); //SW (freq. change)
