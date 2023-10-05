@@ -54,7 +54,8 @@ AGC電圧をSeeed Xiao RP2040のアナログ入力に接続してあるので，
 
 #### Seeed Xiao RP2040用スケッチは"TX50-TRX-XIAO.ino"です．  
 	ボードマネージャは，Earlephilhower版 Raspberry Pi Pico/RP2040が使用できます．
-	この際，ボードとしてSeeed Xiao RP2040を選んでください．
+	この際，ボードとしてSeeed Xiao RP2040を選んでください． 
+ 	また，消費電流を減らすため．CPU Speedは最低の50MHzにして下さい． 
 	今回はUSB Audioを使用していないので，Raspberry Pi Pico mbed版は必要ありません． 
 	どうしてもmbed版を使いたい場合はQP-7C_RP2040のページを参照して下さい． 
 	SI5351aの制御には，"Etherkit SI5351"ライブラリーを使用しました． 
