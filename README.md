@@ -68,6 +68,11 @@ AGC電圧をSeeed Xiao RP2040のアナログ入力に接続してあるので，
 	
 #### JLCPCB用のガーバーファイルは"TX50-TRX-XIAO_gerber.zip"で，Kicadのファイルは"TX50-TRX-XIAO_kicad.zip"です．  
 	実際にはプロトタイプ版で動作テストをしており， これはそのマイナーチェンジ版(現時点では未テスト)です．  
+ 
+#### ケースの3Dプリンタデータファイルは"TX50-TRX-XIAO-BOX_stl.zip"です．  
+	M3 35mmネジ 4本で固定できます．  
+![alt text](images/TX50-TRX-XIAO_5.png)  
+
 
 #### 必要部品(2023年9月27日時点の価格)  
 	TX50キット：CRkits共同購入プロジェクト，1850円 + 180円（送料）　http://jl1kra.sakura.ne.jp/TX50R50.html  
