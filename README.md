@@ -71,6 +71,7 @@ AGC電圧をSeeed Xiao RP2040のアナログ入力に接続してあるので，
  
 #### ケースの3Dプリンタデータファイルは"TX50-TRX-XIAO-BOX_stl.zip"です．  
 	M3 35mmネジ 4本で固定できます．  
+ 	USB充電式9V充電池(006P型)用の充電穴をつけたものも含めました．  
 ![alt text](images/TX50-TRX-XIAO_5.png)  
 
 
