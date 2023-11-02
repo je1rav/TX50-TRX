@@ -141,7 +141,7 @@ https://www.nict.go.jp/publication/kiho/06/022/Kiho_Vol06_No022_pp035-038.pdf
 ### 調整
 	受信感度および送信出力が最大になるようにT2，T1およびT3のコアの位置を調整して下さい．
 
-![alt text](images/TX27-TRX-XAIO_1.png)  
+![alt text](images/TX27-TRX-XIAO_1.png)  
 箱に入れた状態
 
 #### 必要部品(TX50トランシーバーとの差分)  
